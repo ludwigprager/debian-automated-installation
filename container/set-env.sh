@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export UNATTENDED_DEBIAN_VERSION="1.0"
+export UNATTENDED_DEBIAN_IMAGE="unattended-debian:${UNATTENDED_DEBIAN_VERSION}"
+
