@@ -9,8 +9,7 @@ The [test script](./10-run-this-poc.sh) performs these 3 steps:
 - start/test the new machine
 
 These three steps are unattended, i.e. without manual interaction.
-The preseed-iso will be created in the context of a docker-container to verify the
-call in a  build pipeline.
+The preseed-iso is created in the context of a docker-container.
 
 # Prerequisites
 - qemu-utils
